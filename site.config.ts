@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'b1d2d659cd614b7c817e4709e4e37ee3',
+  rootNotionPageId: '23f864e474184d8791d3957211873864',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Kecilimu.blog',
-  domain: 'https://www.notion.so/Getting-Started-b1d2d659cd614b7c817e4709e4e37ee3',
+  domain: 'https://www.notion.so/Kecilimu-23f864e474184d8791d3957211873864',
   author: 'Kecilimu',
 
   // open graph metadata (optional)
